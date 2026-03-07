@@ -1,0 +1,14 @@
+C:\Users\María Pérez\OneDrive\Escritorio\Ingenieria\Capacitaciones\C#\Tareas\Tarea3\sgar\bin\Debug\net10.0\sgar.exe
+C:\Users\María Pérez\OneDrive\Escritorio\Ingenieria\Capacitaciones\C#\Tareas\Tarea3\sgar\bin\Debug\net10.0\sgar.deps.json
+C:\Users\María Pérez\OneDrive\Escritorio\Ingenieria\Capacitaciones\C#\Tareas\Tarea3\sgar\bin\Debug\net10.0\sgar.runtimeconfig.json
+C:\Users\María Pérez\OneDrive\Escritorio\Ingenieria\Capacitaciones\C#\Tareas\Tarea3\sgar\bin\Debug\net10.0\sgar.dll
+C:\Users\María Pérez\OneDrive\Escritorio\Ingenieria\Capacitaciones\C#\Tareas\Tarea3\sgar\bin\Debug\net10.0\sgar.pdb
+C:\Users\María Pérez\OneDrive\Escritorio\Ingenieria\Capacitaciones\C#\Tareas\Tarea3\sgar\obj\Debug\net10.0\sgar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\María Pérez\OneDrive\Escritorio\Ingenieria\Capacitaciones\C#\Tareas\Tarea3\sgar\obj\Debug\net10.0\sgar.AssemblyInfoInputs.cache
+C:\Users\María Pérez\OneDrive\Escritorio\Ingenieria\Capacitaciones\C#\Tareas\Tarea3\sgar\obj\Debug\net10.0\sgar.AssemblyInfo.cs
+C:\Users\María Pérez\OneDrive\Escritorio\Ingenieria\Capacitaciones\C#\Tareas\Tarea3\sgar\obj\Debug\net10.0\sgar.csproj.CoreCompileInputs.cache
+C:\Users\María Pérez\OneDrive\Escritorio\Ingenieria\Capacitaciones\C#\Tareas\Tarea3\sgar\obj\Debug\net10.0\sgar.dll
+C:\Users\María Pérez\OneDrive\Escritorio\Ingenieria\Capacitaciones\C#\Tareas\Tarea3\sgar\obj\Debug\net10.0\refint\sgar.dll
+C:\Users\María Pérez\OneDrive\Escritorio\Ingenieria\Capacitaciones\C#\Tareas\Tarea3\sgar\obj\Debug\net10.0\sgar.pdb
+C:\Users\María Pérez\OneDrive\Escritorio\Ingenieria\Capacitaciones\C#\Tareas\Tarea3\sgar\obj\Debug\net10.0\sgar.genruntimeconfig.cache
+C:\Users\María Pérez\OneDrive\Escritorio\Ingenieria\Capacitaciones\C#\Tareas\Tarea3\sgar\obj\Debug\net10.0\ref\sgar.dll
