@@ -1,0 +1,14 @@
+C:\Users\María Pérez\OneDrive\Escritorio\Ingenieria\Capacitaciones\C#\Proyecto_final\jerarquiaDeMemoria\bin\Debug\net10.0\jerarquiaDeMemoria.exe
+C:\Users\María Pérez\OneDrive\Escritorio\Ingenieria\Capacitaciones\C#\Proyecto_final\jerarquiaDeMemoria\bin\Debug\net10.0\jerarquiaDeMemoria.deps.json
+C:\Users\María Pérez\OneDrive\Escritorio\Ingenieria\Capacitaciones\C#\Proyecto_final\jerarquiaDeMemoria\bin\Debug\net10.0\jerarquiaDeMemoria.runtimeconfig.json
+C:\Users\María Pérez\OneDrive\Escritorio\Ingenieria\Capacitaciones\C#\Proyecto_final\jerarquiaDeMemoria\bin\Debug\net10.0\jerarquiaDeMemoria.dll
+C:\Users\María Pérez\OneDrive\Escritorio\Ingenieria\Capacitaciones\C#\Proyecto_final\jerarquiaDeMemoria\bin\Debug\net10.0\jerarquiaDeMemoria.pdb
+C:\Users\María Pérez\OneDrive\Escritorio\Ingenieria\Capacitaciones\C#\Proyecto_final\jerarquiaDeMemoria\obj\Debug\net10.0\jerarquiaDeMemoria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\María Pérez\OneDrive\Escritorio\Ingenieria\Capacitaciones\C#\Proyecto_final\jerarquiaDeMemoria\obj\Debug\net10.0\jerarquiaDeMemoria.AssemblyInfoInputs.cache
+C:\Users\María Pérez\OneDrive\Escritorio\Ingenieria\Capacitaciones\C#\Proyecto_final\jerarquiaDeMemoria\obj\Debug\net10.0\jerarquiaDeMemoria.AssemblyInfo.cs
+C:\Users\María Pérez\OneDrive\Escritorio\Ingenieria\Capacitaciones\C#\Proyecto_final\jerarquiaDeMemoria\obj\Debug\net10.0\jerarquiaDeMemoria.csproj.CoreCompileInputs.cache
+C:\Users\María Pérez\OneDrive\Escritorio\Ingenieria\Capacitaciones\C#\Proyecto_final\jerarquiaDeMemoria\obj\Debug\net10.0\jerarquiaDeMemoria.dll
+C:\Users\María Pérez\OneDrive\Escritorio\Ingenieria\Capacitaciones\C#\Proyecto_final\jerarquiaDeMemoria\obj\Debug\net10.0\refint\jerarquiaDeMemoria.dll
+C:\Users\María Pérez\OneDrive\Escritorio\Ingenieria\Capacitaciones\C#\Proyecto_final\jerarquiaDeMemoria\obj\Debug\net10.0\jerarquiaDeMemoria.pdb
+C:\Users\María Pérez\OneDrive\Escritorio\Ingenieria\Capacitaciones\C#\Proyecto_final\jerarquiaDeMemoria\obj\Debug\net10.0\jerarquiaDeMemoria.genruntimeconfig.cache
+C:\Users\María Pérez\OneDrive\Escritorio\Ingenieria\Capacitaciones\C#\Proyecto_final\jerarquiaDeMemoria\obj\Debug\net10.0\ref\jerarquiaDeMemoria.dll
