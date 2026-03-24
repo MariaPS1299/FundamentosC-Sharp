@@ -1,0 +1,14 @@
+C:\Users\María Pérez\OneDrive\Escritorio\Ingenieria\Capacitaciones\C#\Tareas\Tarea4\poocc\bin\Debug\net10.0\poocc.exe
+C:\Users\María Pérez\OneDrive\Escritorio\Ingenieria\Capacitaciones\C#\Tareas\Tarea4\poocc\bin\Debug\net10.0\poocc.deps.json
+C:\Users\María Pérez\OneDrive\Escritorio\Ingenieria\Capacitaciones\C#\Tareas\Tarea4\poocc\bin\Debug\net10.0\poocc.runtimeconfig.json
+C:\Users\María Pérez\OneDrive\Escritorio\Ingenieria\Capacitaciones\C#\Tareas\Tarea4\poocc\bin\Debug\net10.0\poocc.dll
+C:\Users\María Pérez\OneDrive\Escritorio\Ingenieria\Capacitaciones\C#\Tareas\Tarea4\poocc\bin\Debug\net10.0\poocc.pdb
+C:\Users\María Pérez\OneDrive\Escritorio\Ingenieria\Capacitaciones\C#\Tareas\Tarea4\poocc\obj\Debug\net10.0\poocc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\María Pérez\OneDrive\Escritorio\Ingenieria\Capacitaciones\C#\Tareas\Tarea4\poocc\obj\Debug\net10.0\poocc.AssemblyInfoInputs.cache
+C:\Users\María Pérez\OneDrive\Escritorio\Ingenieria\Capacitaciones\C#\Tareas\Tarea4\poocc\obj\Debug\net10.0\poocc.AssemblyInfo.cs
+C:\Users\María Pérez\OneDrive\Escritorio\Ingenieria\Capacitaciones\C#\Tareas\Tarea4\poocc\obj\Debug\net10.0\poocc.csproj.CoreCompileInputs.cache
+C:\Users\María Pérez\OneDrive\Escritorio\Ingenieria\Capacitaciones\C#\Tareas\Tarea4\poocc\obj\Debug\net10.0\poocc.dll
+C:\Users\María Pérez\OneDrive\Escritorio\Ingenieria\Capacitaciones\C#\Tareas\Tarea4\poocc\obj\Debug\net10.0\refint\poocc.dll
+C:\Users\María Pérez\OneDrive\Escritorio\Ingenieria\Capacitaciones\C#\Tareas\Tarea4\poocc\obj\Debug\net10.0\poocc.pdb
+C:\Users\María Pérez\OneDrive\Escritorio\Ingenieria\Capacitaciones\C#\Tareas\Tarea4\poocc\obj\Debug\net10.0\poocc.genruntimeconfig.cache
+C:\Users\María Pérez\OneDrive\Escritorio\Ingenieria\Capacitaciones\C#\Tareas\Tarea4\poocc\obj\Debug\net10.0\ref\poocc.dll
