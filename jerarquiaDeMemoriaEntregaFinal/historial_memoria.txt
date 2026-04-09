@@ -1,0 +1,30 @@
+4/8/2026 6:18:33 PM: El Program Counter está en modo Solo Lectura. No se puede guardar '0x0'.
+4/8/2026 6:18:41 PM: El contenido actual de Program Counter es '0x0' (Tiempo acceso: 0.8 ns).
+4/8/2026 6:42:35 PM: Dato '0x99' guardado en Acumulador.
+4/8/2026 6:42:53 PM: El contenido actual de Acumulador es '0x99' (Tiempo acceso: 0.8 ns).
+4/8/2026 6:43:02 PM: Dato '0x1' guardado en Cache L3 (política: write-back).
+4/8/2026 6:43:05 PM: El contenido actual de Cache L3 es '0x1' (Tiempo acceso: 2.5 ns).
+4/8/2026 6:43:27 PM: Dato '0x2' guardado en Memoria Principal (RAM) (RAM).
+4/8/2026 8:21:34 PM: Dato '0x1' guardado en Acumulador.
+4/8/2026 8:22:25 PM: El contenido actual de Acumulador es '0x1' (Tiempo acceso: 0.8 ns).
+4/8/2026 8:22:34 PM: Dato '0x2' guardado en Cache L3 (política: write-back).
+4/8/2026 8:22:38 PM: El contenido actual de Cache L3 es '0x2' (Tiempo acceso: 2.5 ns).
+4/8/2026 8:22:52 PM: Dato '0x3' guardado en Memoria Principal (RAM) (RAM).
+4/8/2026 8:23:05 PM: El contenido actual de Memoria Principal (RAM) es '0x3' (Tiempo acceso: 100 ns).
+4/8/2026 8:23:22 PM: Dato '0x4' escrito en Disco Duro (persistente, acceso más lento).
+4/8/2026 8:23:34 PM: Leyendo desde Disco Duro: '0x4' (Tiempo acceso: 10000000 ns, persistente).
+4/8/2026 8:52:15 PM: Dato '4' guardado en Acumulador.
+4/8/2026 8:52:36 PM: El contenido actual de Acumulador es '4' (Tiempo acceso: 0.8 ns).
+4/8/2026 8:52:51 PM: Dato '5' guardado en Cache L3 (política: write-back).
+4/8/2026 8:53:21 PM: El contenido actual de Cache L3 es '5' (Tiempo acceso: 2.5 ns).
+4/8/2026 8:53:33 PM: El contenido actual de Memoria Principal (RAM) es '0x0' (Tiempo acceso: 100 ns).
+4/8/2026 8:53:44 PM: Dato '0x1' guardado en Memoria Principal (RAM) (RAM).
+4/8/2026 8:54:04 PM: Dato '0x2' escrito en Disco Duro (persistente, acceso más lento).
+4/8/2026 8:54:11 PM: El contenido actual de Memoria Principal (RAM) es '0x1' (Tiempo acceso: 100 ns).
+4/8/2026 8:54:19 PM: Leyendo desde Disco Duro: '0x2' (Tiempo acceso: 10000000 ns, persistente).
+4/8/2026 9:43:38 PM: Dato '0x1' guardado en Acumulador.
+4/8/2026 9:43:46 PM: El contenido actual de Acumulador es '0x1' (Tiempo acceso: 0.8 ns).
+4/8/2026 9:43:58 PM: Dato '0x2' guardado en Cache L3 (política: write-back).
+4/8/2026 9:44:01 PM: El contenido actual de Cache L3 es '0x2' (Tiempo acceso: 2.5 ns).
+4/8/2026 9:44:13 PM: Dato '0x3' guardado en Memoria Principal (RAM) (RAM).
+4/8/2026 9:44:18 PM: El contenido actual de Memoria Principal (RAM) es '0x3' (Tiempo acceso: 100 ns).

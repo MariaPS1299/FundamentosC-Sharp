@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\María Pérez\\OneDrive\\Escritorio\\Ingenieria\\Capacitaciones\\C#\\Proyecto_final\\jerarquiaDeMemoria\\jerarquiaDeMemoria.csproj": {}
+    "C:\\Users\\María Pérez\\OneDrive\\Escritorio\\Ingenieria\\Capacitaciones\\C#\\Proyecto_final\\jerarquiaDeMemoriaEntregaFinal\\jerarquiaDeMemoria.csproj": {}
   },
   "projects": {
-    "C:\\Users\\María Pérez\\OneDrive\\Escritorio\\Ingenieria\\Capacitaciones\\C#\\Proyecto_final\\jerarquiaDeMemoria\\jerarquiaDeMemoria.csproj": {
+    "C:\\Users\\María Pérez\\OneDrive\\Escritorio\\Ingenieria\\Capacitaciones\\C#\\Proyecto_final\\jerarquiaDeMemoriaEntregaFinal\\jerarquiaDeMemoria.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\María Pérez\\OneDrive\\Escritorio\\Ingenieria\\Capacitaciones\\C#\\Proyecto_final\\jerarquiaDeMemoria\\jerarquiaDeMemoria.csproj",
+        "projectUniqueName": "C:\\Users\\María Pérez\\OneDrive\\Escritorio\\Ingenieria\\Capacitaciones\\C#\\Proyecto_final\\jerarquiaDeMemoriaEntregaFinal\\jerarquiaDeMemoria.csproj",
         "projectName": "jerarquiaDeMemoria",
-        "projectPath": "C:\\Users\\María Pérez\\OneDrive\\Escritorio\\Ingenieria\\Capacitaciones\\C#\\Proyecto_final\\jerarquiaDeMemoria\\jerarquiaDeMemoria.csproj",
+        "projectPath": "C:\\Users\\María Pérez\\OneDrive\\Escritorio\\Ingenieria\\Capacitaciones\\C#\\Proyecto_final\\jerarquiaDeMemoriaEntregaFinal\\jerarquiaDeMemoria.csproj",
         "packagesPath": "C:\\Users\\María Pérez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\María Pérez\\OneDrive\\Escritorio\\Ingenieria\\Capacitaciones\\C#\\Proyecto_final\\jerarquiaDeMemoria\\obj\\",
+        "outputPath": "C:\\Users\\María Pérez\\OneDrive\\Escritorio\\Ingenieria\\Capacitaciones\\C#\\Proyecto_final\\jerarquiaDeMemoriaEntregaFinal\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\María Pérez\\AppData\\Roaming\\NuGet\\NuGet.Config"
